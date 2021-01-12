@@ -1,0 +1,10 @@
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\bin\Debug\MultiplicationRule.exe.config
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\bin\Debug\MultiplicationRule.exe
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\bin\Debug\MultiplicationRule.pdb
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.csprojAssemblyReference.cache
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.Properties.Resources.resources
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.csproj.GenerateResource.cache
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.exe
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.pdb
+C:\Users\Administrator.SC-201907160802\source\repos\MultiplicationRule\MultiplicationRule\obj\Debug\MultiplicationRule.MainWindow.resources
